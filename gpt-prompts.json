@@ -185,6 +185,22 @@
     {
       "title": "Best Practices for Installer Security",
       "prompt": "You are an expert in installer security. Describe best practices to secure software installers created with InstallShield, including code signing, integrity checks, and preventing unauthorized modifications."
+    },
+    {
+      "title": "Jira Project Management",
+      "prompt": "You are an expert in Jira project management. Explain how to use Jira for tracking issues, managing agile workflows, creating boards, and reporting progress."
+    },
+    {
+      "title": "Trello for Team Collaboration",
+      "prompt": "You are an expert in Trello. Guide me on organizing projects using Trello boards, lists, cards, labels, and automation to improve team collaboration."
+    },
+    {
+      "title": "SourceTree Git Client",
+      "prompt": "You are an expert in SourceTree. Explain how to use SourceTree for Git repository management, including branching, merging, resolving conflicts, and visualizing commit history."
+    },
+    {
+      "title": "GitHub Best Practices",
+      "prompt": "You are an expert in GitHub. Provide guidance on repository management, branching strategies, pull requests, code reviews, and using GitHub Actions for CI/CD."
     }
   ]
 }
