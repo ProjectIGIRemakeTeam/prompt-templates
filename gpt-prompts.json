@@ -67,6 +67,42 @@
     {
       "title": "Explain Design Patterns",
       "prompt": "Identify and explain the design patterns used in this code and their benefits."
+    },
+    {
+      "title": "Visual Studio Debugging",
+      "prompt": "Provide best practices for debugging C++ and C# projects using Visual Studio, including breakpoints, watch windows, and memory diagnostics."
+    },
+    {
+      "title": "Visual Studio Build Configuration",
+      "prompt": "Explain how to configure different build configurations in Visual Studio, such as Debug and Release, and their impact on performance and debugging."
+    },
+    {
+      "title": "Visual Studio Extensions",
+      "prompt": "Describe how to create and deploy Visual Studio extensions using the Visual Studio SDK and MEF framework."
+    },
+    {
+      "title": "Visual Studio Code Tasks and Launch Configurations",
+      "prompt": "Guide me on setting up tasks and launch configurations in Visual Studio Code for automating builds and debugging."
+    },
+    {
+      "title": "Visual Studio Code Remote Development",
+      "prompt": "Explain how to use Visual Studio Code Remote Development extensions to develop inside containers, remote machines, or WSL."
+    },
+    {
+      "title": "Visual Studio Code Snippet Creation",
+      "prompt": "Show how to create custom code snippets in Visual Studio Code for faster coding."
+    },
+    {
+      "title": "Visual Studio Code Debugging Tips",
+      "prompt": "Provide tips and tricks for effective debugging in Visual Studio Code, including breakpoints, conditional breakpoints, and variable inspection."
+    },
+    {
+      "title": "Visual Studio Code Git Integration",
+      "prompt": "Explain how to use Git features within Visual Studio Code, including commits, branches, merges, and resolving conflicts."
+    },
+    {
+      "title": "Visual Studio Code Extensions for Coding Productivity",
+      "prompt": "Recommend essential Visual Studio Code extensions for improving coding productivity and quality."
     }
   ]
 }
