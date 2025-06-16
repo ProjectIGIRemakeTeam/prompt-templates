@@ -1,6 +1,110 @@
 {
   "coding": [
     {
+      "title": "Debugging Assistance",
+      "prompt": "Help me identify and fix bugs in this code snippet. Provide detailed explanations on what might be going wrong and how to resolve it."
+    },
+    {
+      "title": "Refactor Code",
+      "prompt": "Suggest improvements to refactor this code for better readability, maintainability, and performance without changing its behavior."
+    },
+    {
+      "title": "Write Unit Tests",
+      "prompt": "Generate unit tests for the following code using best practices and appropriate testing frameworks."
+    },
+    {
+      "title": "Explain Algorithm",
+      "prompt": "Explain the algorithm implemented in this code, including its time and space complexity."
+    },
+    {
+      "title": "Optimize SQL Query",
+      "prompt": "Analyze this SQL query and suggest optimizations to improve its performance on large datasets."
+    },
+    {
+      "title": "Security Review",
+      "prompt": "Perform a security review of this code snippet. Identify vulnerabilities or risks and provide mitigation strategies."
+    },
+    {
+      "title": "Code Documentation",
+      "prompt": "Generate clear and concise documentation for this code, including function descriptions, parameters, and return values."
+    },
+    {
+      "title": "Language Specific: Pythonic Improvements",
+      "prompt": "Suggest Pythonic improvements for this code snippet following PEP 8 and idiomatic practices."
+    },
+    {
+      "title": "Language Specific: JavaScript Best Practices",
+      "prompt": "Review this JavaScript code and suggest best practices and modern ECMAScript features to improve it."
+    },
+    {
+      "title": "Explain Error Message",
+      "prompt": "Explain the cause of this error message in the context of the provided code and suggest how to fix it."
+    },
+    {
+      "title": "Implement Feature",
+      "prompt": "Implement the following feature based on the requirements described: [insert requirements]."
+    },
+    {
+      "title": "Code Style Enforcement",
+      "prompt": "Check this code snippet for style guide compliance and suggest fixes to align with [e.g., Airbnb JavaScript Style Guide]."
+    },
+    {
+      "title": "Concurrency and Parallelism",
+      "prompt": "Explain how concurrency or parallelism is handled in this code and suggest improvements if needed."
+    },
+    {
+      "title": "Memory Management",
+      "prompt": "Review this code for memory management issues such as leaks or inefficient usage and provide recommendations."
+    },
+    {
+      "title": "API Design Review",
+      "prompt": "Evaluate the design of this API code and suggest improvements for usability, scalability, and security."
+    },
+    {
+      "title": "Legacy Code Modernization",
+      "prompt": "Suggest how to modernize this legacy codebase using current technologies and design patterns."
+    },
+    {
+      "title": "Explain Design Patterns",
+      "prompt": "Identify and explain the design patterns used in this code and their benefits."
+    },
+    {
+      "title": "Visual Studio Debugging",
+      "prompt": "Provide best practices for debugging C++ and C# projects using Visual Studio, including breakpoints, watch windows, and memory diagnostics."
+    },
+    {
+      "title": "Visual Studio Build Configuration",
+      "prompt": "Explain how to configure different build configurations in Visual Studio, such as Debug and Release, and their impact on performance and debugging."
+    },
+    {
+      "title": "Visual Studio Extensions",
+      "prompt": "Describe how to create and deploy Visual Studio extensions using the Visual Studio SDK and MEF framework."
+    },
+    {
+      "title": "Visual Studio Code Tasks and Launch Configurations",
+      "prompt": "Guide me on setting up tasks and launch configurations in Visual Studio Code for automating builds and debugging."
+    },
+    {
+      "title": "Visual Studio Code Remote Development",
+      "prompt": "Explain how to use Visual Studio Code Remote Development extensions to develop inside containers, remote machines, or WSL."
+    },
+    {
+      "title": "Visual Studio Code Snippet Creation",
+      "prompt": "Show how to create custom code snippets in Visual Studio Code for faster coding."
+    },
+    {
+      "title": "Visual Studio Code Debugging Tips",
+      "prompt": "Provide tips and tricks for effective debugging in Visual Studio Code, including breakpoints, conditional breakpoints, and variable inspection."
+    },
+    {
+      "title": "Visual Studio Code Git Integration",
+      "prompt": "Explain how to use Git features within Visual Studio Code, including commits, branches, merges, and resolving conflicts."
+    },
+    {
+      "title": "Visual Studio Code Extensions for Coding Productivity",
+      "prompt": "Recommend essential Visual Studio Code extensions for improving coding productivity and quality."
+    },
+    {
       "title": "Incredibuild Setup and Usage",
       "prompt": "Explain how to install, configure, and use Incredibuild to accelerate C++ and other builds. Include tips on setting up distributed builds and troubleshooting common issues."
     },
