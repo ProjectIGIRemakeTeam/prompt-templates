@@ -2,189 +2,189 @@
   "distribution": [
     {
       "title": "Microsoft Partner Network",
-      "prompt": "Explain the benefits and requirements of joining the Microsoft Partner Network for software developers, including how to leverage resources for development, marketing, and support."
+      "prompt": "You are an expert in the Microsoft Partner Network. Explain the benefits and requirements of joining for software developers, including how to leverage resources for development, marketing, and support."
     },
     {
       "title": "Xbox Developer Program",
-      "prompt": "Guide me through the process of becoming an Xbox developer. Explain how to access development kits, publish games on Xbox platforms, and utilize Xbox Live services."
+      "prompt": "You are an expert in the Xbox Developer Program. Guide me through the process of becoming an Xbox developer. Explain how to access development kits, publish games on Xbox platforms, and utilize Xbox Live services."
     },
     {
       "title": "Steamworks Integration",
-      "prompt": "Describe how to integrate Steamworks SDK into a game, including achievements, leaderboards, multiplayer matchmaking, and microtransactions."
+      "prompt": "You are an expert in Steamworks SDK integration. Describe how to integrate Steamworks into a game, including achievements, leaderboards, multiplayer matchmaking, and microtransactions."
     },
     {
       "title": "Nintendo Developer Portal",
-      "prompt": "Explain how to register and get started as a Nintendo developer. Include information on development hardware, certification requirements, and publishing on Nintendo Switch."
+      "prompt": "You are an expert in the Nintendo Developer Portal. Explain how to register and get started as a Nintendo developer. Include information on development hardware, certification requirements, and publishing on Nintendo Switch."
     },
     {
       "title": "PlayStation Developer Program",
-      "prompt": "Outline the steps to become a PlayStation developer, access SDKs, and publish games on PlayStation platforms."
+      "prompt": "You are an expert in the PlayStation Developer Program. Outline the steps to become a PlayStation developer, access SDKs, and publish games on PlayStation platforms."
     },
     {
       "title": "Epic Games Developer Program",
-      "prompt": "Explain how to join the Epic Games developer program, use Unreal Engine, and distribute games via the Epic Games Store."
+      "prompt": "You are an expert in the Epic Games Developer Program. Explain how to join the program, use Unreal Engine, and distribute games via the Epic Games Store."
     },
     {
       "title": "Cloud Gaming Platforms",
-      "prompt": "Discuss development considerations and deployment strategies for cloud gaming platforms such as Xbox Cloud Gaming, Google Stadia, and NVIDIA GeForce Now."
+      "prompt": "You are an expert in cloud gaming platforms. Discuss development considerations and deployment strategies for platforms such as Xbox Cloud Gaming, Google Stadia, and NVIDIA GeForce Now."
     },
     {
       "title": "Developer Program Compliance",
-      "prompt": "Describe common compliance and certification requirements across major game platforms, including content policies, age ratings, and privacy regulations."
+      "prompt": "You are an expert in developer program compliance. Describe common compliance and certification requirements across major game platforms, including content policies, age ratings, and privacy regulations."
     },
     {
       "title": "Monetization on Digital Platforms",
-      "prompt": "Explain monetization options available on major game distribution platforms, including in-app purchases, subscriptions, DLCs, and ads."
+      "prompt": "You are an expert in monetization on digital platforms. Explain monetization options available on major game distribution platforms, including in-app purchases, subscriptions, DLCs, and ads."
     },
     {
       "title": "Cross-Platform Development Challenges",
-      "prompt": "Discuss challenges and best practices when developing games for multiple platforms such as PC, consoles, and mobile."
+      "prompt": "You are an expert in cross-platform development. Discuss challenges and best practices when developing games for multiple platforms such as PC, consoles, and mobile."
     }
   ],
   "coding": [
     {
       "title": "Debugging Assistance",
-      "prompt": "Help me identify and fix bugs in this code snippet. Provide detailed explanations on what might be going wrong and how to resolve it."
+      "prompt": "You are an expert in debugging code. Help me identify and fix bugs in this code snippet. Provide detailed explanations on what might be going wrong and how to resolve it."
     },
     {
       "title": "Refactor Code",
-      "prompt": "Suggest improvements to refactor this code for better readability, maintainability, and performance without changing its behavior."
+      "prompt": "You are an expert in code refactoring. Suggest improvements to refactor this code for better readability, maintainability, and performance without changing its behavior."
     },
     {
       "title": "Write Unit Tests",
-      "prompt": "Generate unit tests for the following code using best practices and appropriate testing frameworks."
+      "prompt": "You are an expert in writing unit tests. Generate unit tests for the following code using best practices and appropriate testing frameworks."
     },
     {
       "title": "Explain Algorithm",
-      "prompt": "Explain the algorithm implemented in this code, including its time and space complexity."
+      "prompt": "You are an expert in algorithms. Explain the algorithm implemented in this code, including its time and space complexity."
     },
     {
       "title": "Optimize SQL Query",
-      "prompt": "Analyze this SQL query and suggest optimizations to improve its performance on large datasets."
+      "prompt": "You are an expert in SQL optimization. Analyze this SQL query and suggest optimizations to improve its performance on large datasets."
     },
     {
       "title": "Security Review",
-      "prompt": "Perform a security review of this code snippet. Identify vulnerabilities or risks and provide mitigation strategies."
+      "prompt": "You are an expert in code security. Perform a security review of this code snippet. Identify vulnerabilities or risks and provide mitigation strategies."
     },
     {
       "title": "Code Documentation",
-      "prompt": "Generate clear and concise documentation for this code, including function descriptions, parameters, and return values."
+      "prompt": "You are an expert in technical documentation. Generate clear and concise documentation for this code, including function descriptions, parameters, and return values."
     },
     {
       "title": "Language Specific: Pythonic Improvements",
-      "prompt": "Suggest Pythonic improvements for this code snippet following PEP 8 and idiomatic practices."
+      "prompt": "You are an expert in Python. Suggest Pythonic improvements for this code snippet following PEP 8 and idiomatic practices."
     },
     {
       "title": "Language Specific: JavaScript Best Practices",
-      "prompt": "Review this JavaScript code and suggest best practices and modern ECMAScript features to improve it."
+      "prompt": "You are an expert in JavaScript. Review this JavaScript code and suggest best practices and modern ECMAScript features to improve it."
     },
     {
       "title": "Explain Error Message",
-      "prompt": "Explain the cause of this error message in the context of the provided code and suggest how to fix it."
+      "prompt": "You are an expert in error analysis. Explain the cause of this error message in the context of the provided code and suggest how to fix it."
     },
     {
       "title": "Implement Feature",
-      "prompt": "Implement the following feature based on the requirements described: [insert requirements]."
+      "prompt": "You are an expert in software development. Implement the following feature based on the requirements described: [insert requirements]."
     },
     {
       "title": "Code Style Enforcement",
-      "prompt": "Check this code snippet for style guide compliance and suggest fixes to align with [e.g., Airbnb JavaScript Style Guide]."
+      "prompt": "You are an expert in code style. Check this code snippet for style guide compliance and suggest fixes to align with [e.g., Airbnb JavaScript Style Guide]."
     },
     {
       "title": "Concurrency and Parallelism",
-      "prompt": "Explain how concurrency or parallelism is handled in this code and suggest improvements if needed."
+      "prompt": "You are an expert in concurrent programming. Explain how concurrency or parallelism is handled in this code and suggest improvements if needed."
     },
     {
       "title": "Memory Management",
-      "prompt": "Review this code for memory management issues such as leaks or inefficient usage and provide recommendations."
+      "prompt": "You are an expert in memory management. Review this code for memory management issues such as leaks or inefficient usage and provide recommendations."
     },
     {
       "title": "API Design Review",
-      "prompt": "Evaluate the design of this API code and suggest improvements for usability, scalability, and security."
+      "prompt": "You are an expert in API design. Evaluate the design of this API code and suggest improvements for usability, scalability, and security."
     },
     {
       "title": "Legacy Code Modernization",
-      "prompt": "Suggest how to modernize this legacy codebase using current technologies and design patterns."
+      "prompt": "You are an expert in legacy code modernization. Suggest how to modernize this legacy codebase using current technologies and design patterns."
     },
     {
       "title": "Explain Design Patterns",
-      "prompt": "Identify and explain the design patterns used in this code and their benefits."
+      "prompt": "You are an expert in design patterns. Identify and explain the design patterns used in this code and their benefits."
     },
     {
       "title": "Visual Studio Debugging",
-      "prompt": "Provide best practices for debugging C++ and C# projects using Visual Studio, including breakpoints, watch windows, and memory diagnostics."
+      "prompt": "You are an expert in Visual Studio debugging. Provide best practices for debugging C++ and C# projects using Visual Studio, including breakpoints, watch windows, and memory diagnostics."
     },
     {
       "title": "Visual Studio Build Configuration",
-      "prompt": "Explain how to configure different build configurations in Visual Studio, such as Debug and Release, and their impact on performance and debugging."
+      "prompt": "You are an expert in Visual Studio build configurations. Explain how to configure different build configurations in Visual Studio, such as Debug and Release, and their impact on performance and debugging."
     },
     {
       "title": "Visual Studio Extensions",
-      "prompt": "Describe how to create and deploy Visual Studio extensions using the Visual Studio SDK and MEF framework."
+      "prompt": "You are an expert in Visual Studio extensions. Describe how to create and deploy Visual Studio extensions using the Visual Studio SDK and MEF framework."
     },
     {
       "title": "Visual Studio Code Tasks and Launch Configurations",
-      "prompt": "Guide me on setting up tasks and launch configurations in Visual Studio Code for automating builds and debugging."
+      "prompt": "You are an expert in Visual Studio Code. Guide me on setting up tasks and launch configurations in Visual Studio Code for automating builds and debugging."
     },
     {
       "title": "Visual Studio Code Remote Development",
-      "prompt": "Explain how to use Visual Studio Code Remote Development extensions to develop inside containers, remote machines, or WSL."
+      "prompt": "You are an expert in Visual Studio Code remote development. Explain how to use Visual Studio Code Remote Development extensions to develop inside containers, remote machines, or WSL."
     },
     {
       "title": "Visual Studio Code Snippet Creation",
-      "prompt": "Show how to create custom code snippets in Visual Studio Code for faster coding."
+      "prompt": "You are an expert in Visual Studio Code. Show how to create custom code snippets in Visual Studio Code for faster coding."
     },
     {
       "title": "Visual Studio Code Debugging Tips",
-      "prompt": "Provide tips and tricks for effective debugging in Visual Studio Code, including breakpoints, conditional breakpoints, and variable inspection."
+      "prompt": "You are an expert in Visual Studio Code debugging. Provide tips and tricks for effective debugging in Visual Studio Code, including breakpoints, conditional breakpoints, and variable inspection."
     },
     {
       "title": "Visual Studio Code Git Integration",
-      "prompt": "Explain how to use Git features within Visual Studio Code, including commits, branches, merges, and resolving conflicts."
+      "prompt": "You are an expert in Git integration with Visual Studio Code. Explain how to use Git features within Visual Studio Code, including commits, branches, merges, and resolving conflicts."
     },
     {
       "title": "Visual Studio Code Extensions for Coding Productivity",
-      "prompt": "Recommend essential Visual Studio Code extensions for improving coding productivity and quality."
+      "prompt": "You are an expert in Visual Studio Code extensions. Recommend essential Visual Studio Code extensions for improving coding productivity and quality."
     },
     {
       "title": "Incredibuild Setup and Usage",
-      "prompt": "Explain how to install, configure, and use Incredibuild to accelerate C++ and other builds. Include tips on setting up distributed builds and troubleshooting common issues."
+      "prompt": "You are an expert in Incredibuild. Explain how to install, configure, and use Incredibuild to accelerate C++ and other builds. Include tips on setting up distributed builds and troubleshooting common issues."
     },
     {
       "title": "Incredibuild 5.0 Features",
-      "prompt": "Describe the new features and improvements introduced in Incredibuild 5.0 compared to previous versions, focusing on build acceleration, cloud integration, and developer productivity."
+      "prompt": "You are an expert in Incredibuild 5.0. Describe the new features and improvements introduced in Incredibuild 5.0 compared to previous versions, focusing on build acceleration, cloud integration, and developer productivity."
     },
     {
       "title": "InstallShield Packaging",
-      "prompt": "Guide me through creating installers using InstallShield. Explain how to configure installation projects, customize user interface dialogs, and manage prerequisites and dependencies."
+      "prompt": "You are an expert in InstallShield. Guide me through creating installers using InstallShield. Explain how to configure installation projects, customize user interface dialogs, and manage prerequisites and dependencies."
     },
     {
       "title": "InstallShield Advanced Features",
-      "prompt": "Explain advanced InstallShield features like patch creation, updates, merge modules, and scripting for complex installation scenarios."
+      "prompt": "You are an expert in advanced InstallShield features. Explain patch creation, updates, merge modules, and scripting for complex installation scenarios."
     },
     {
       "title": "Continuous Integration with Incredibuild",
-      "prompt": "Describe how to integrate Incredibuild with popular CI/CD pipelines like Jenkins, Azure DevOps, or TeamCity to speed up build and test stages."
+      "prompt": "You are an expert in CI/CD integration. Describe how to integrate Incredibuild with popular CI/CD pipelines like Jenkins, Azure DevOps, or TeamCity to speed up build and test stages."
     },
     {
       "title": "Build Acceleration Strategies",
-      "prompt": "Discuss strategies for accelerating large-scale software builds including using distributed build systems like Incredibuild, caching, and incremental builds."
+      "prompt": "You are an expert in build acceleration. Discuss strategies for accelerating large-scale software builds including using distributed build systems like Incredibuild, caching, and incremental builds."
     },
     {
       "title": "Troubleshooting InstallShield Installers",
-      "prompt": "Help diagnose and fix common issues encountered during InstallShield installer creation and deployment, including MSI errors and upgrade problems."
+      "prompt": "You are an expert in troubleshooting InstallShield. Help diagnose and fix common issues encountered during InstallShield installer creation and deployment, including MSI errors and upgrade problems."
     },
     {
       "title": "Automating Installer Creation",
-      "prompt": "Explain how to automate InstallShield project builds using command line tools or scripts for integration into build pipelines."
+      "prompt": "You are an expert in automation. Explain how to automate InstallShield project builds using command line tools or scripts for integration into build pipelines."
     },
     {
       "title": "Incredibuild Licensing and Scaling",
-      "prompt": "Provide an overview of Incredibuild licensing options and how to scale build acceleration across teams and cloud environments."
+      "prompt": "You are an expert in Incredibuild licensing. Provide an overview of Incredibuild licensing options and how to scale build acceleration across teams and cloud environments."
     },
     {
       "title": "Best Practices for Installer Security",
-      "prompt": "Describe best practices to secure software installers created with InstallShield, including code signing, integrity checks, and preventing unauthorized modifications."
+      "prompt": "You are an expert in installer security. Describe best practices to secure software installers created with InstallShield, including code signing, integrity checks, and preventing unauthorized modifications."
     }
   ]
 }
