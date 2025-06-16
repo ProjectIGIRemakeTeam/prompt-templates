@@ -1,0 +1,72 @@
+{
+  "coding": [
+    {
+      "title": "Debugging Assistance",
+      "prompt": "Help me identify and fix bugs in this code snippet. Provide detailed explanations on what might be going wrong and how to resolve it."
+    },
+    {
+      "title": "Refactor Code",
+      "prompt": "Suggest improvements to refactor this code for better readability, maintainability, and performance without changing its behavior."
+    },
+    {
+      "title": "Write Unit Tests",
+      "prompt": "Generate unit tests for the following code using best practices and appropriate testing frameworks."
+    },
+    {
+      "title": "Explain Algorithm",
+      "prompt": "Explain the algorithm implemented in this code, including its time and space complexity."
+    },
+    {
+      "title": "Optimize SQL Query",
+      "prompt": "Analyze this SQL query and suggest optimizations to improve its performance on large datasets."
+    },
+    {
+      "title": "Security Review",
+      "prompt": "Perform a security review of this code snippet. Identify vulnerabilities or risks and provide mitigation strategies."
+    },
+    {
+      "title": "Code Documentation",
+      "prompt": "Generate clear and concise documentation for this code, including function descriptions, parameters, and return values."
+    },
+    {
+      "title": "Language Specific: Pythonic Improvements",
+      "prompt": "Suggest Pythonic improvements for this code snippet following PEP 8 and idiomatic practices."
+    },
+    {
+      "title": "Language Specific: JavaScript Best Practices",
+      "prompt": "Review this JavaScript code and suggest best practices and modern ECMAScript features to improve it."
+    },
+    {
+      "title": "Explain Error Message",
+      "prompt": "Explain the cause of this error message in the context of the provided code and suggest how to fix it."
+    },
+    {
+      "title": "Implement Feature",
+      "prompt": "Implement the following feature based on the requirements described: [insert requirements]."
+    },
+    {
+      "title": "Code Style Enforcement",
+      "prompt": "Check this code snippet for style guide compliance and suggest fixes to align with [e.g., Airbnb JavaScript Style Guide]."
+    },
+    {
+      "title": "Concurrency and Parallelism",
+      "prompt": "Explain how concurrency or parallelism is handled in this code and suggest improvements if needed."
+    },
+    {
+      "title": "Memory Management",
+      "prompt": "Review this code for memory management issues such as leaks or inefficient usage and provide recommendations."
+    },
+    {
+      "title": "API Design Review",
+      "prompt": "Evaluate the design of this API code and suggest improvements for usability, scalability, and security."
+    },
+    {
+      "title": "Legacy Code Modernization",
+      "prompt": "Suggest how to modernize this legacy codebase using current technologies and design patterns."
+    },
+    {
+      "title": "Explain Design Patterns",
+      "prompt": "Identify and explain the design patterns used in this code and their benefits."
+    }
+  ]
+}
