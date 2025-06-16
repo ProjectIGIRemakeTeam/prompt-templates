@@ -1,4 +1,46 @@
 {
+  "distribution": [
+    {
+      "title": "Microsoft Partner Network",
+      "prompt": "Explain the benefits and requirements of joining the Microsoft Partner Network for software developers, including how to leverage resources for development, marketing, and support."
+    },
+    {
+      "title": "Xbox Developer Program",
+      "prompt": "Guide me through the process of becoming an Xbox developer. Explain how to access development kits, publish games on Xbox platforms, and utilize Xbox Live services."
+    },
+    {
+      "title": "Steamworks Integration",
+      "prompt": "Describe how to integrate Steamworks SDK into a game, including achievements, leaderboards, multiplayer matchmaking, and microtransactions."
+    },
+    {
+      "title": "Nintendo Developer Portal",
+      "prompt": "Explain how to register and get started as a Nintendo developer. Include information on development hardware, certification requirements, and publishing on Nintendo Switch."
+    },
+    {
+      "title": "PlayStation Developer Program",
+      "prompt": "Outline the steps to become a PlayStation developer, access SDKs, and publish games on PlayStation platforms."
+    },
+    {
+      "title": "Epic Games Developer Program",
+      "prompt": "Explain how to join the Epic Games developer program, use Unreal Engine, and distribute games via the Epic Games Store."
+    },
+    {
+      "title": "Cloud Gaming Platforms",
+      "prompt": "Discuss development considerations and deployment strategies for cloud gaming platforms such as Xbox Cloud Gaming, Google Stadia, and NVIDIA GeForce Now."
+    },
+    {
+      "title": "Developer Program Compliance",
+      "prompt": "Describe common compliance and certification requirements across major game platforms, including content policies, age ratings, and privacy regulations."
+    },
+    {
+      "title": "Monetization on Digital Platforms",
+      "prompt": "Explain monetization options available on major game distribution platforms, including in-app purchases, subscriptions, DLCs, and ads."
+    },
+    {
+      "title": "Cross-Platform Development Challenges",
+      "prompt": "Discuss challenges and best practices when developing games for multiple platforms such as PC, consoles, and mobile."
+    }
+  ],
   "coding": [
     {
       "title": "Debugging Assistance",
