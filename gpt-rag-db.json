@@ -1,0 +1,107 @@
+[
+  {
+    "id": "db-mohradiant-001",
+    "name": "Mohradiant Mod Collection",
+    "description": "A curated set of mods, scripts, and assets for Mohradiant engine games.",
+    "type": "vector",
+    "owner": {
+      "id": "user-1001",
+      "name": "ModMasterMohr"
+    },
+    "contributors": [
+      {
+        "id": "user-1001",
+        "name": "ModMasterMohr"
+      },
+      {
+        "id": "user-1002",
+        "name": "ScriptWizard"
+      }
+    ],
+    "isPublic": true,
+    "tags": ["Mohradiant", "mods", "maps", "scripts"],
+    "lastUpdated": "2024-06-01T10:00:00Z",
+    "documentCount": 250,
+    "usageCount": 1500,
+    "rating": 4.8,
+    "isSelected": false,
+    "files": [
+      {
+        "name": "mohradiant_mod_pack_v1.zip",
+        "size": 52428800,
+        "type": "zip",
+        "uploadedAt": "2024-05-28T14:30:00Z"
+      }
+    ]
+  },
+  {
+    "id": "db-idtech3-002",
+    "name": "idTech3 Community Mods",
+    "description": "Popular mods, maps, and tools for idTech3 engine games like Quake III Arena.",
+    "type": "vector",
+    "owner": {
+      "id": "user-2001",
+      "name": "QuakeModder"
+    },
+    "contributors": [
+      {
+        "id": "user-2001",
+        "name": "QuakeModder"
+      },
+      {
+        "id": "user-2003",
+        "name": "MapMakerPro"
+      }
+    ],
+    "isPublic": true,
+    "tags": ["idTech3", "Quake3", "maps", "mods", "tools"],
+    "lastUpdated": "2024-05-30T18:00:00Z",
+    "documentCount": 400,
+    "usageCount": 2300,
+    "rating": 4.7,
+    "isSelected": false,
+    "files": [
+      {
+        "name": "quake3_mods_collection.zip",
+        "size": 73400320,
+        "type": "zip",
+        "uploadedAt": "2024-05-20T09:15:00Z"
+      }
+    ]
+  },
+  {
+    "id": "db-unrealengine3-003",
+    "name": "Unreal Engine 3 Mods & Assets",
+    "description": "A repository of mods, blueprints, and assets for Unreal Engine 3 games.",
+    "type": "vector",
+    "owner": {
+      "id": "user-3001",
+      "name": "UE3Dev"
+    },
+    "contributors": [
+      {
+        "id": "user-3001",
+        "name": "UE3Dev"
+      },
+      {
+        "id": "user-3002",
+        "name": "AssetArtist"
+      }
+    ],
+    "isPublic": false,
+    "tags": ["UnrealEngine3", "mods", "assets", "blueprints"],
+    "lastUpdated": "2024-05-25T16:45:00Z",
+    "documentCount": 180,
+    "usageCount": 450,
+    "rating": 4.6,
+    "isSelected": false,
+    "files": [
+      {
+        "name": "ue3_mod_pack_v2.rar",
+        "size": 62914560,
+        "type": "rar",
+        "uploadedAt": "2024-05-22T11:00:00Z"
+      }
+    ]
+  }
+]
